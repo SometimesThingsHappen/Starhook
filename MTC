@@ -1,3 +1,3 @@
 -- move away lil bro
 
-loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/6d791ba4dfc2459d83af04bb8a93759a7d3f2d0fe4d327a60ce63a8dd09b8985/download"))()
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/491269141a7023099c9e3b03a6fb7aa5e86f823cfc3dc325c14e1f763d24938a/download"))()
