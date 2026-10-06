@@ -1,3 +1,3 @@
 -- foid foid go away
 
-loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/ebb0ec9271909011d930939fda0ddd7bae6eeaf6969e25e064047c4bfc216785/download"))()
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/de255c7b502f29c8779de1201307179ca9e5a000547ec6e177ee8e54f27eea17/download"))()
