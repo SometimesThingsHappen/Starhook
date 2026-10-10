@@ -1,0 +1,3 @@
+-- shush shush 
+
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/85c82a06fad09aa87682da90c86397c9a46a0863ec9c95e87b5fe75dd33e9928/download"))()
